@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature.001
+    m_Weight: 1
+  - m_Path: Armature.001/Bone
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/Bone.003
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/Bone.003/Bone.002
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/Bone.003/Bone.002/Bone.001
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/Bone.003/Bone.002/Bone.001/Bone.001_end
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.004
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.004/Bone.011
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.004/Bone.011/Bone.010
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.004/Bone.011/Bone.010/Bone.009
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.004/Bone.011/Bone.010/Bone.009/Bone.008
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.004/Bone.011/Bone.010/Bone.009/Bone.008/Bone.007
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.004/Bone.011/Bone.010/Bone.009/Bone.008/Bone.007/Bone.006
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.004/Bone.011/Bone.010/Bone.009/Bone.008/Bone.007/Bone.006/Bone.005
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.004/Bone.011/Bone.010/Bone.009/Bone.008/Bone.007/Bone.006/Bone.005/Bone.005_end
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021/Bone.020
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021/Bone.020/Bone.019
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021/Bone.020/Bone.019/Bone.018
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021/Bone.020/Bone.019/Bone.018/Bone.017
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021/Bone.020/Bone.019/Bone.018/Bone.017/Bone.016
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021/Bone.020/Bone.019/Bone.018/Bone.017/Bone.016/Bone.015
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021/Bone.020/Bone.019/Bone.018/Bone.017/Bone.016/Bone.015/Bone.014
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021/Bone.020/Bone.019/Bone.018/Bone.017/Bone.016/Bone.015/Bone.014/Bone.013
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.012/Bone.022/Bone.021/Bone.020/Bone.019/Bone.018/Bone.017/Bone.016/Bone.015/Bone.014/Bone.013/Bone.013_end
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023/Bone.031
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023/Bone.031/Bone.030
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023/Bone.031/Bone.030/Bone.029
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023/Bone.031/Bone.030/Bone.029/Bone.028
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023/Bone.031/Bone.030/Bone.029/Bone.028/Bone.027
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023/Bone.031/Bone.030/Bone.029/Bone.028/Bone.027/Bone.026
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023/Bone.031/Bone.030/Bone.029/Bone.028/Bone.027/Bone.026/Bone.025
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023/Bone.031/Bone.030/Bone.029/Bone.028/Bone.027/Bone.026/Bone.025/Bone.024
+    m_Weight: 1
+  - m_Path: Armature.001/Bone.023/Bone.031/Bone.030/Bone.029/Bone.028/Bone.027/Bone.026/Bone.025/Bone.024/Bone.024_end
+    m_Weight: 1
+  - m_Path: Armature.001/hellikk.L
+    m_Weight: 0
+  - m_Path: Armature.001/hellikk.L/hellikk.L_end
+    m_Weight: 0
+  - m_Path: Armature.001/hellikk.R
+    m_Weight: 0
+  - m_Path: Armature.001/hellikk.R/hellikk.R_end
+    m_Weight: 0
+  - m_Path: Armature.001/wiest
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L/lowertoose.L_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L/lowerfinger.L_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L/lowerfinger2.L_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L/lowerfinger3.L_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L/lowerfinger4.L_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R/lowertoose.R_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R/lowerfinger.R_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R/lowerfinger2.R_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R/lowerfinger3.R_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R/lowerfinger4.R_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/neck
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/neck/head
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/hip/chest/neck/head/head_end
+    m_Weight: 1
+  - m_Path: Armature.001/wiest/upperleg.L
+    m_Weight: 0
+  - m_Path: Armature.001/wiest/upperleg.L/lowerleg.L
+    m_Weight: 0
+  - m_Path: Armature.001/wiest/upperleg.L/lowerleg.L/foot.L
+    m_Weight: 0
+  - m_Path: Armature.001/wiest/upperleg.L/lowerleg.L/foot.L/toose.L
+    m_Weight: 0
+  - m_Path: Armature.001/wiest/upperleg.L/lowerleg.L/foot.L/toose.L/toose.L_end
+    m_Weight: 0
+  - m_Path: Armature.001/wiest/upperleg.R
+    m_Weight: 0
+  - m_Path: Armature.001/wiest/upperleg.R/lowerleg.R
+    m_Weight: 0
+  - m_Path: Armature.001/wiest/upperleg.R/lowerleg.R/foot.R
+    m_Weight: 0
+  - m_Path: Armature.001/wiest/upperleg.R/lowerleg.R/foot.R/toose.R
+    m_Weight: 0
+  - m_Path: Armature.001/wiest/upperleg.R/lowerleg.R/foot.R/toose.R/toose.R_end
+    m_Weight: 0
+  - m_Path: Bow.001
+    m_Weight: 0
+  - m_Path: Cube
+    m_Weight: 0
+  - m_Path: Quiver
+    m_Weight: 0
